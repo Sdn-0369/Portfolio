@@ -25,6 +25,12 @@ const Projects = () => {
       tech: ['Offline-First', 'IndexedDB', 'Analytics'],
       link: 'https://logic-looper-one-psi.vercel.app/',
     },
+    {
+      title: 'StockLens',
+      description: 'AI-powered investment intelligence platform that transforms financial news into real-time market signals, sentiment analysis, and cross-market impact insights.',
+      tech: ['AI', 'FinBERT', 'FastAPI','PostgreSQL','React','WebSockets'],
+      link: 'https://stocklens-beige.vercel.app/',
+    },
   ];
 
   return (
