@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'Fintelify',
       description: 'AI-powered financial document analysis platform using LLMs and search integration. Built with React, Node.js, TypeScript, Redis, and deployed on AWS.',
       tech: ['React', 'Node.js', 'TypeScript', 'Redis', 'AWS', 'LLMs'],
-      link: 'https://app.summarizer.shop/',
+      link: 'https://fintellify-frontend2.vercel.app/',
     },
     {
       title: 'AI Conversational System for ARGO Data',
